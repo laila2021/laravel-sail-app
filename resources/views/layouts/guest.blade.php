@@ -18,7 +18,7 @@
     </head>
     <body>
    
-   <h1><b>Welcome, I'm Laila Al-Kainae</b></h1>
+  
         <div class="font-sans text-gray-900 antialiased">
             {{ $slot }}
         </div>
