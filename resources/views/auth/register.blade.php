@@ -11,7 +11,7 @@
 
         <form method="POST" action="{{ route('register') }}">
             @csrf
-
+            <b>This is Production Environment- Laila Al-Kainae</b>
             <!-- Name -->
             <div>
                 <x-label for="name" :value="__('Name')" />
