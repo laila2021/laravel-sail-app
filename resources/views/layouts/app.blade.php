@@ -29,9 +29,7 @@
 
             <!-- Page Content -->
             <main>
-             <h1>
-               <b>Welcome, I'm Laila Al-Kainae</b>
-                </h1>
+            
                 {{ $slot }}
             </main>
         </div>
