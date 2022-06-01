@@ -4,7 +4,7 @@
             {{ __('Dashboard') }}
         </h2>
         <h1>
-      <<  Welcome, I'm Laila Al-Kainae >>
+       Welcome, I'm Laila Al-Kainae
         </h1>
     </x-slot>
 
