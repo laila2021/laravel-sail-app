@@ -17,7 +17,9 @@
                     </x-nav-link>
                 </div>
             </div>
-
+ <h1>
+               <b>Welcome, I'm Laila Al-Kainae</b>
+                </h1>
             <!-- Settings Dropdown -->
             <div class="hidden sm:flex sm:items-center sm:ml-6">
                 <x-dropdown align="right" width="48">
